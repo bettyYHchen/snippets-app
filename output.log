@@ -12,3 +12,78 @@ INFO:root:Writing 'moon':'sun' to 'try.csv'
 DEBUG:root:Opening file
 DEBUG:root:Writing snippet to file
 DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing fish:cat to try.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Getting fish from try.csv
+DEBUG:root:Reading file
+DEBUG:root:Reading speadsheet
+DEBUG:root:Read sucessful
+DEBUG:root:Read sucessful
+DEBUG:root:Read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Getting fish from snippets.csv
+DEBUG:root:Reading file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing fish:cat to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing bone:dog to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing meat:lion to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing bread:worker to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Getting bread from snippets.csv
+DEBUG:root:Reading file
+DEBUG:root:Reading speadsheet
+DEBUG:root:Read sucessful
+DEBUG:root:Read sucessful
+DEBUG:root:Read sucessful
+DEBUG:root:Read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Getting rice from snippets.csv
+DEBUG:root:Reading file
+DEBUG:root:Reading speadsheet
+DEBUG:root:Read sucessful
+DEBUG:root:Read sucessful
+DEBUG:root:Read sucessful
+DEBUG:root:Read sucessful

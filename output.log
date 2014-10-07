@@ -1,0 +1,14 @@
+INFO:root:Starting snippet
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing 'car':'road' to 'try.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippet
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing 'moon':'sun' to 'try.csv'
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
